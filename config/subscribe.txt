@@ -2,7 +2,9 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
+http://45.192.97.170:5211/486354
+https://guovin.github.io/iptv-api/ipv4.m3u
+https://iptv.820150.xyz/tvbox/live/游魂.txt
 
 
 
