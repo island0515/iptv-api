@@ -5,6 +5,7 @@
 http://45.192.97.170:5211/486354
 https://guovin.github.io/iptv-api/ipv4.m3u
 https://iptv.820150.xyz/tvbox/live/游魂.txt
+https://iptv-org.github.io/iptv/countries/cn.m3u
 
 
 
